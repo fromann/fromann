@@ -2,9 +2,9 @@
 <!--
 **fromann/fromann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:-->
-- 👦 是一只19岁的Boy
+- 👦 是一只21岁的Boy
 - 🏫 School ： 青岛科技大学
-- 📫 Email ： 1827757625@qq.com
+- 📫 Email ： [**froan@foxmail.com**](mailto:froan@foxmail.com)
 - ⚡ Fun ： 🏸是爱羽毛球的
 
 ### ✨我也是热爱Github的娃🎉~
