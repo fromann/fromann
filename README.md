@@ -1,8 +1,8 @@
-### 👋是一只憨憨的[**Froan**](https://github.com/fromann/)呀❗
+### 👋六边形战士[**3shy**](https://github.com/fromann/)呀❗
 <!--
 **fromann/fromann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:-->
-- 👦 是一只21岁的Boy
+- 👦 是一只22岁的Boy
 - 🏫 School ： 青岛科技大学
 - 📫 Email ： [**froan@foxmail.com**](mailto:froan@foxmail.com)
 - ⚡ Fun ： 🏸是爱羽毛球的
