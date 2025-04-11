@@ -4,7 +4,7 @@
 Here are some ideas to get you started:-->
 - 👦 是一只22岁的Boy
 - 🏫 School ： 青岛科技大学
-- 📫 Email ： [**froan@foxmail.com**](mailto:froan@foxmail.com)
+- 📫 Email ： [**cn3shy@qq.com**](mailto:cn3shy@qq.com)
 - ⚡ Fun ： 🏸是爱羽毛球的
 
 ### ✨我也是热爱Github的娃🎉~
